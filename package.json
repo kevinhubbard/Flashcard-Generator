@@ -1,0 +1,28 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "node flashcard app",
+  "main": "app.js",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinhubbard/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "node",
+    "inquirer",
+    "heroku"
+  ],
+  "author": "Kevin Hubbard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinhubbard/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/kevinhubbard/Flashcard-Generator#readme"
+}
